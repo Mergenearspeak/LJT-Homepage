@@ -1,13 +1,8 @@
 # Header navigation
+# Uses only pages already provided by the Academic Pages template.
 main:
-  - title: "Research"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Contact"
-    url: /contact/
