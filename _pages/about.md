@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## About
+
 Hi! I am **Junteng Liu**, a first-year Ph.D. candidate in Computer Science at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am a member of the **HKUST NLP Group** advised by **Prof. Junxian He**.
 
 My research focuses on **natural language processing** and **machine learning**, especially reliable and capable foundation models. I am broadly interested in:
@@ -23,9 +25,9 @@ Before joining HKUST, I received my B.Eng. from **Shanghai Jiao Tong University 
 - **Research Intern**, Tencent WXG, June 2024--September 2024, advised by Zifei Shan
 - **Research Intern**, Shanghai AI Lab, June 2023--December 2023, advised by Prof. Yu Cheng
 
-## Publications
+## Publication record
 
-These publications are mirrored here from the [Publications](/LJT-Homepage/publications/) page so visitors can see them directly from the landing page.
+The full publication entries are available on the [Publications](/LJT-Homepage/publications/) page. For completeness, my about section also records the same publication list:
 
 ### Preprints
 
